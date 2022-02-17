@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Matiss1337
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning Web development.
-- 💞️ I’m looking to collaborate on smarter people :D
+- 💞️ I’m looking to collaborate with smarter people :D
 
 <!---
 Matiss1337/Matiss1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
