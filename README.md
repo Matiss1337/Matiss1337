@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Matiss1337
-- 👀 I’m interested in Web development.
+- 👀 I’m interested in Full stack Web development.
 - 🌱 I’m currently learning Web development.
 - 💞️ I’m looking to collaborate with smarter people :D
 
