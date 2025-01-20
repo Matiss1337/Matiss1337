@@ -1,13 +1,13 @@
 <!-- JavaScript -->
 <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
 <!-- Alpine.js -->
-<img src="https://raw.githubusercontent.com/alpinejs/alpine/master/.github/assets/logo.svg" alt="Alpine.js" width="40" height="40"/>
+<img src="https://seeklogo.com/images/A/alpine-js-logo-21F4B6D660-seeklogo.com.png](https://avatars.githubusercontent.com/u/59030169?s=200&v=4" alt="Alpine.js" width="40" height="40"/>
 <!-- React -->
 <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
 <!-- Tailwind CSS -->
-<img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo.svg" alt="Tailwind CSS" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
 <!-- LESS -->
-<img src="https://cdn.worldvectorlogo.com/logos/less-2.svg" alt="LESS" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/less.svg" alt="LESS" width="40" height="40"/>
 <!-- Node.js -->
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
 <!-- Express -->
