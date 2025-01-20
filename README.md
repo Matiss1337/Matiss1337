@@ -1,1 +1,9 @@
-FE developer https://www.linkedin.com/in/matiss-judins-319235228
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
+![LESS](https://img.icons8.com/color/48/000000/less.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![Express](https://img.icons8.com/ios-filled/50/000000/express-js.png)
+![PHP](https://img.icons8.com/officel/40/000000/php-logo.png)
+![Magento](https://img.icons8.com/color/48/000000/magento.png)
+![Alpine.js](https://img.icons8.com/color/48/000000/alpinejs.png)
