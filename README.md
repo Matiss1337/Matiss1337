@@ -90,5 +90,6 @@ I lead frontend delivery on large commerce work, ship integrations, improve perf
 ## Contact
 
 - Email: `matissj1337@gmail.com`
+- LinkedIn: [matiss-judins-319235228](https://www.linkedin.com/in/matiss-judins-319235228/)
 - Location: `Latvia`
 - Work setup: `Open to remote opportunities`
