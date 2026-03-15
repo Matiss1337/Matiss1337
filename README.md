@@ -74,7 +74,7 @@ I lead frontend delivery on large commerce work, ship integrations, improve perf
 
 ### Tools And Platforms
 
-`Algolia` `dotdigital` `Dynamic Yield` `Klevu 2` `GlitchTip` `Cursor` `Figma` `Docker` `Warden` `Kubernetes` `Firebase` `WebSockets` `TablePlus`
+`Algolia` `dotdigital` `Dynamic Yield` `Klevu 2` `GlitchTip` `Cursor` `Figma` `Kubernetes` `Firebase` `WebSockets` `TablePlus`
 
 ### Version Control And CI/CD
 
