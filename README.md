@@ -23,6 +23,8 @@
   <img src="https://img.icons8.com/color/48/000000/magento.png" alt="Magento" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://www.cursor.com/favicon.ico" alt="Cursor" width="40" height="40"/>
 </p>
 
 ## About Me
@@ -31,6 +33,8 @@ Senior Magento 2 developer with a strong Hyva and frontend focus, backed by full
 
 I lead frontend delivery on large commerce work, ship integrations, improve performance and technical SEO, and mentor junior developers. My recent work includes major customer journey features from account to checkout for [leroymerlin.co.za](https://leroymerlin.co.za/).
 
+I also use `Figma` for first-pass design generation and iteration, then use `Cursor` with `MCP` to speed up implementation by carrying over design context like typography, spacing, colors, and component structure into code.
+
 ## Highlights
 
 - Led frontend releases from planning and coordination through production verification.
@@ -38,7 +42,8 @@ I lead frontend delivery on large commerce work, ship integrations, improve perf
 - Delivered large Magento 2 and Hyva features across account, cart, and checkout flows.
 - Supported production stability with monitoring and incident triage using GlitchTip.
 - Mentored junior developers through onboarding, ramp-up, and probation.
-- Built freelance projects end-to-end across frontend, backend, hosting, SEO, and content.
+- Built freelance projects end-to-end across frontend, backend, hosting, SEO, content, and UI implementation.
+- Use AI-assisted design workflows with `Figma` and `Cursor` to move faster from concept to production-ready UI.
 
 ## Experience
 
@@ -59,7 +64,7 @@ I lead frontend delivery on large commerce work, ship integrations, improve perf
 `03/2021 - Present`
 
 - Delivering client work using React, Node.js, Express, Firebase, WooCommerce, and custom integrations.
-- Building and managing sites from the ground up, including hosting, SEO, and content setup.
+- Building and managing sites from the ground up, including hosting, SEO, content setup, UI direction, and implementation.
 
 ## Core Stack
 
@@ -84,6 +89,7 @@ I lead frontend delivery on large commerce work, ship integrations, improve perf
 - Strong frontend ownership in large ecommerce projects.
 - Clean implementation of complex Magento 2 and Hyva features.
 - Experience balancing delivery speed, UX quality, and production stability.
+- Ability to move from generated design direction to production-ready UI quickly.
 - Mentoring mindset and solid collaboration across product and engineering teams.
 
 ## Contact
