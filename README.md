@@ -1,7 +1,7 @@
 <h1 align="center">Matiss Judins</h1>
 
 <p align="center">
-  <strong>Senior Magento 2 Developer (Hyva) | Frontend-heavy Full-Stack</strong>
+  <strong>Senior Full-Stack Engineer | JavaScript, React, Node.js</strong>
 </p>
 
 <p align="center">
@@ -29,11 +29,11 @@
 
 ## About Me
 
-Senior Magento 2 developer with a strong Hyva and frontend focus, backed by full-stack experience across ecommerce, Node.js apps, and freelance builds.
+Senior full-stack engineer with strong frontend ownership and hands-on experience across JavaScript, React, Node.js, ecommerce platforms, and freelance product builds.
 
-I lead frontend delivery on large commerce work, ship integrations, improve performance and technical SEO, and mentor junior developers. My recent work includes major customer journey features from account to checkout for [leroymerlin.co.za](https://leroymerlin.co.za/).
+I lead frontend delivery, ship integrations, improve performance and technical SEO, and mentor junior developers. My recent work includes major customer journey features from account to checkout for [leroymerlin.co.za](https://leroymerlin.co.za/).
 
-I also use `Figma` for first-pass design generation and iteration, then use `Cursor` with `MCP` to speed up implementation by carrying over design context like typography, spacing, colors, and component structure into code.
+I am comfortable working with UI/UX principles in practice, using `Figma` to generate, explore, and refine product designs myself when needed.
 
 ## Highlights
 
@@ -49,7 +49,7 @@ I also use `Figma` for first-pass design generation and iteration, then use `Cur
 
 ### Vaimo
 
-**Senior Magento 2 Developer (Hyva)**  
+**Senior Full-Stack Engineer / Magento 2 Developer (Hyva)**  
 `04/2023 - Present`
 
 - Frontend-heavy full-stack delivery for Magento 2 and Hyva projects.
@@ -86,6 +86,7 @@ I also use `Figma` for first-pass design generation and iteration, then use `Cur
 
 ## What I Bring
 
+- Strong full-stack delivery across frontend, backend, and implementation details.
 - Strong frontend ownership in large ecommerce projects.
 - Clean implementation of complex Magento 2 and Hyva features.
 - Experience balancing delivery speed, UX quality, and production stability.
