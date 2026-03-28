@@ -70,7 +70,7 @@ I am comfortable working with UI/UX principles in practice, using `Figma` to gen
 
 ### Frontend
 
-`Hyva` `Alpine.js` `Tailwind CSS` `LESS` `JavaScript` `TypeScript` `jQuery` `CSS3`
+`Hyva` `Alpine.js` `Tailwind CSS` `LESS` `JavaScript` `jQuery` `CSS3`
 
 ### Backend
 
