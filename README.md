@@ -63,7 +63,7 @@ I am comfortable working with UI/UX principles in practice, using `Figma` to gen
 **Full-Stack Developer**  
 `03/2021 - Present`
 
-- Delivering client work using React, Node.js, Express, Firebase, WooCommerce, and custom integrations.
+- Delivering client work using React, Node.js, Express, Firebase, MongoDB, MySQL/Sequelize, WooCommerce, and custom integrations.
 - Building and managing sites from the ground up, including hosting, SEO, content setup, UI direction, and implementation.
 
 ## Core Stack
@@ -74,11 +74,11 @@ I am comfortable working with UI/UX principles in practice, using `Figma` to gen
 
 ### Backend
 
-`Magento 2` `PHP` `Node.js` `Express` `Firebase`
+`Magento 2` `PHP` `Node.js` `Express` `Firebase` `MongoDB` `MySQL`
 
 ### Tools And Platforms
 
-`Algolia` `dotdigital` `Dynamic Yield` `Klevu 2` `GlitchTip` `Cursor` `Figma` `Kubernetes` `Firebase` `WebSockets` `TablePlus`
+`Algolia` `dotdigital` `Dynamic Yield` `Klevu 2` `GlitchTip` `Cursor` `Figma` `Kubernetes` `Firebase` `WebSockets` `TablePlus` `Sequelize` `Mongoose`
 
 ### Version Control And CI/CD
 
@@ -99,3 +99,4 @@ I am comfortable working with UI/UX principles in practice, using `Figma` to gen
 - LinkedIn: [matiss-judins-319235228](https://www.linkedin.com/in/matiss-judins-319235228/)
 - Location: `Latvia`
 - Work setup: `Open to remote opportunities`
+
