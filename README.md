@@ -12,7 +12,7 @@
   <a href="mailto:matissj1337@gmail.com">matissj1337@gmail.com</a>
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/59030169?s=200&v=4" alt="Alpine.js" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
