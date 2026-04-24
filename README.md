@@ -12,19 +12,8 @@
   <a href="mailto:matissj1337@gmail.com">matissj1337@gmail.com</a>
 </p>
 
-<p>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/59030169?s=200&v=4" alt="Alpine.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/less.svg" alt="LESS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="40" height="40"/>
-  <img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="PHP" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/magento.png" alt="Magento" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.cursor.com/favicon.ico" alt="Cursor" width="40" height="40"/>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40" /> <img src="https://avatars.githubusercontent.com/u/59030169?s=200&v=4" alt="Alpine.js" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /> <img src="https://cdn.worldvectorlogo.com/logos/less.svg" alt="LESS" width="40" height="40" /> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="40" height="40" /> <img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="PHP" width="40" height="40" /> <img src="https://img.icons8.com/color/48/000000/magento.png" alt="Magento" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" /> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /> <img src="https://www.cursor.com/favicon.ico" alt="Cursor" width="40" height="40" />
 </p>
 
 ## About Me
