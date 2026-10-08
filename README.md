@@ -1,104 +1,57 @@
-<h1 align="center">Matiss Judins</h1>
+# Matīss Judins
 
-<p align="center">
-  <strong>Senior Full-Stack Engineer | JavaScript, React, Node.js</strong>
-</p>
+**Senior Full-Stack Engineer | React, TypeScript, Node.js, AWS**
 
-<p align="center">
-  Latvia • Open to remote
-</p>
+Latvia · Open to remote  
+[Email](mailto:matissj1337@gmail.com) · [LinkedIn](https://www.linkedin.com/in/matiss-judins-319235228/)
 
-<p align="center">
-  <a href="mailto:matissj1337@gmail.com">matissj1337@gmail.com</a>
-</p>
+## About
 
-<table align="center">
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40" /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/59030169?s=200&v=4" alt="Alpine.js" width="40" height="40" /></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/less.svg" alt="LESS" width="40" height="40" /></td>
-    <td><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40" /></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="40" height="40" /></td>
-    <td><img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="PHP" width="40" height="40" /></td>
-    <td><img src="https://img.icons8.com/color/48/000000/magento.png" alt="Magento" width="40" height="40" /></td>
-    <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" /></td>
-    <td><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" width="40" height="40" /></td>
-    <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></td>
-    <td><img src="https://www.cursor.com/favicon.ico" alt="Cursor" width="40" height="40" /></td>
-  </tr>
-</table>
+Senior full-stack engineer with 5+ years of experience delivering production web applications with React, TypeScript, Node.js, REST APIs, and AWS.
 
-## About Me
+I own work from feature-level technical design and spec-driven planning through implementation, testing, release, and production support. I have led frontend delivery for high-traffic ecommerce platforms and mentor developers through practical code reviews.
 
-Senior full-stack engineer with strong frontend ownership and hands-on experience across JavaScript, React, Node.js, ecommerce platforms, and freelance product builds.
+## Current work
 
-I lead frontend delivery, ship integrations, improve performance and technical SEO, and mentor junior developers. My recent work includes major customer journey features from account to checkout for [leroymerlin.co.za](https://leroymerlin.co.za/).
+### Accenture · Senior Full-Stack Developer
 
-I am comfortable working with UI/UX principles in practice, using `Figma` to generate, explore, and refine product designs myself when needed.
+Building full-stack features for an enterprise HPC platform used by medical research teams.
 
-## Highlights
+- Deliver role-based REST APIs, project landing pages, and cluster-creation workflows.
+- Implement authentication and project-based access control with AWS Cognito.
+- Contribute to technical designs and implementation specifications.
+- Build unit, integration, and end-to-end coverage with Jest and Playwright.
 
-- Led frontend releases from planning and coordination through production verification.
-- Migrated a 200k+ product catalog search from Klevu 2 to Algolia.
-- Delivered large Magento 2 and Hyva features across account, cart, and checkout flows.
-- Supported production stability with monitoring and incident triage using GlitchTip.
-- Mentored junior developers through onboarding, ramp-up, and probation.
-- Built freelance projects end-to-end across frontend, backend, hosting, SEO, content, and UI implementation.
-- Use AI-assisted design workflows with `Figma` and `Cursor` to move faster from concept to production-ready UI.
+### Freelance · Full-Stack Developer
 
-## Experience
+- Build client-facing React applications from Figma designs.
+- Deliver full-stack applications with TypeScript, Node.js, Express, and SQL/NoSQL databases.
+- Run an independent WooCommerce store across development, hosting, technical SEO, and content.
 
-### Vaimo
+## Previous highlights
 
-**Senior Full-Stack Engineer / Magento 2 Developer (Hyva)**  
-`04/2023 - Present`
+- Led frontend delivery across a team of frontend and backend engineers at Vaimo.
+- Led a Magento 2 to Hyvä storefront migration focused on performance and Black Friday readiness.
+- Migrated search from Klevu to Algolia for a catalogue of 200,000+ products with approximately 30 minutes of total downtime.
+- Delivered account, cart, checkout, personalization, and third-party integration features.
+- Maintained more than 12 months without a frontend P1 incident.
 
-- Frontend-heavy full-stack delivery for Magento 2 and Hyva projects.
-- Owned frontend releases, including planning, coordination, and production checks.
-- Worked on major migrations including Hyva theme adoption, Klevu 2 to Algolia, and Klaviyo to dotdigital.
-- Built commerce features such as service upsells, marketplace offers, and third-party integrations.
-- Participated in on-call and frontend incident response.
+## Core stack
 
-### Freelancer
+**Frontend:** React, TypeScript, JavaScript, React Router, Alpine.js, Tailwind CSS, LESS  
+**Backend:** Node.js, Express, REST APIs, PHP, Magento 2, OAuth2, JWT, RBAC  
+**AWS:** Lambda, API Gateway, S3, CloudFront, IAM, EC2, DynamoDB, SQS, Cognito  
+**Data:** PostgreSQL, MongoDB, MySQL, Firebase  
+**Testing:** Jest, React Testing Library, Playwright  
+**Delivery:** GitHub Actions, Jenkins, Docker, Linux, CI/CD
 
-**Full-Stack Developer**  
-`03/2021 - Present`
+## Certification
 
-- Delivering client work using React, Node.js, Express, Firebase, MongoDB, MySQL/Sequelize, WooCommerce, and custom integrations.
-- Building and managing sites from the ground up, including hosting, SEO, content setup, UI direction, and implementation.
-
-## Core Stack
-
-### Frontend
-
-`Hyva` `Alpine.js` `Tailwind CSS` `LESS` `JavaScript` `jQuery` `CSS3`
-
-### Backend
-
-`Magento 2` `PHP` `Node.js` `Express` `Firebase` `MongoDB` `MySQL`
-
-### Tools And Platforms
-
-`Algolia` `dotdigital` `Dynamic Yield` `Klevu 2` `GlitchTip` `Cursor` `Figma` `Kubernetes` `Firebase` `WebSockets` `TablePlus` `Sequelize` `Mongoose`
-
-### Version Control And CI/CD
-
-`Git` `GitHub` `Bitbucket` `Jenkins`
-
-## What I Bring
-
-- Strong full-stack delivery across frontend, backend, and implementation details.
-- Strong frontend ownership in large ecommerce projects.
-- Clean implementation of complex Magento 2 and Hyva features.
-- Experience balancing delivery speed, UX quality, and production stability.
-- Ability to move from generated design direction to production-ready UI quickly.
-- Mentoring mindset and solid collaboration across product and engineering teams.
+- AWS Certified Cloud Practitioner
 
 ## Contact
 
-- Email: `matissj1337@gmail.com`
+- Email: [matissj1337@gmail.com](mailto:matissj1337@gmail.com)
 - LinkedIn: [matiss-judins-319235228](https://www.linkedin.com/in/matiss-judins-319235228/)
-- Location: `Latvia`
-- Work setup: `Open to remote opportunities`
-
+- Location: Latvia
+- Work setup: Open to remote opportunities
